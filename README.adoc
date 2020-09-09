@@ -1,6 +1,6 @@
 = Glossarist database template for The Good Docs project
 
-Concept register managers: after you create a glossary by using this template,
+Concept register managers: after you create an empty glossary from this template,
 please edit `roles.yaml` to set `isManager` flag on your own username!
 
 For further information, refer to link:https://www.glossarist.org/docs/adopt/2-infrastructure/[Glossarist.org].
