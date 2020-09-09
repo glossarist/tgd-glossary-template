@@ -1,0 +1,5 @@
+= Glossarist database template for The Good Docs project
+
+After you use this template, please edit `roles.yaml` and set `isManager` flag on your own username!
+
+For further information, refer to link:https://www.glossarist.org/docs/adopt/2-infrastructure/[Glossarist.org].
